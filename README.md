@@ -1,10 +1,8 @@
 ## Hi, I'm Max 💇‍♂️, a beginner Front End developer from Ukraine. 
   
-<!-- Create a contribution graph greeting such as in https://github.com/Rishit-dagli -->
 
-🚀 I’m specializing in **frontend** development. I have knowledge of Javascript and React. I like to work with new technologies and want to learn something new every time. 
 
-< !--💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions. -->
+🚀 I’m specializing in **frontend development**. I have knowledge of **Javascript** and **React**. I like to work with new technologies and want to learn something new every time. 
 
 ## 😎 **More About Me**
 
@@ -17,11 +15,11 @@
 ## 🔨 **Languages and Tools**
 
 <div>
-<img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+<img align="left" height="25px" src="https://www.flaticon.com/free-icon/figma_5968705?term=figma+logo&page=1&position=9&origin=search&related_id=5968705">
 </div>
 
 <br /><br />
