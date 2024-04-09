@@ -16,10 +16,11 @@
 
 <div>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="left" height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
+<img align="left" height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
+<img align="left" height="25px" src="https://img.icons8.com/color/48/html-5--v1.png">
+<img align="left" height="25px" src="https://img.icons8.com/color/48/css3.png">
+<img align="left" height="25px" src="https://img.icons8.com/nolan/64/sass.png">
 <img align="left" height="25px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
-<img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-<img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 <img align="left" height="25px" src="https://img.icons8.com/color/48/figma--v1.png">
 </div>
 
