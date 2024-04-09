@@ -16,23 +16,11 @@
 
 <div>
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img align="left" height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
 <img align="left" height="25px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 <img align="left" height="25px" src="https://img.icons8.com/color/48/figma--v1.png">
-</div>
-
-<br /><br />
-
-<div>
-<img align="left" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
-<img align="left" height="25px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
-<img align="left" height="25px" src="https://www.sarvap.in/wp-content/uploads/mysql.png">
-<img align="left" height="25px" src="https://seeklogo.com/images/N/neo4j-logo-6863235D8A-seeklogo.com.png">
-<img align="left" height="25px" src="https://www.lavca.org/app/uploads/2019/10/aws-logo-square.png">
-<img align="left" height="25px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2019/06/docker_logo.png">
-<img align="left" height="25px" src="https://pngset.com/images/kube-kubernetes-logo-symbol-trademark-star-symbol-emblem-transparent-png-1496896.png">
-<img align="left" height="25px" src="https://brandslogos.com/wp-content/uploads/images/elasticsearch-logo-vector.svg">
 </div>
 
 <br /><br />
