@@ -6,11 +6,11 @@
 
 ## 😎 **More About Me**
 
-🎓 Rivne State Humanities University (cultural studies).
-🌱 I am currently studying Front-End development.
-🎸 When I'm not working, I like to record music, read books and sometimes travel.
-⚡ Fun fact: I've never seen Harry Potter.
-💬 If you have any questions, please contact me. I'm happy to help!
+🎓 Rivne State Humanities University (cultural studies).<br />
+🌱 I am currently studying Front-End development.<br />
+🎸 When I'm not working, I like to record music, read books and sometimes travel.<br />
+⚡ Fun fact: I've never seen Harry Potter.<br />
+💬 If you have any questions, please contact me. I'm happy to help!<br />
 
 ## 🔨 **Languages and Tools**
 
