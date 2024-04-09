@@ -19,7 +19,7 @@
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 <img align="left" height="25px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
-<img align="left" height="25px" src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma">
+<img align="left" height="25px" src="https://img.icons8.com/color/48/figma--v1.png">
 </div>
 
 <br /><br />
