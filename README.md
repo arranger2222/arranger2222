@@ -4,7 +4,7 @@
 
 🚀 I’m specializing in **frontend** development. I have knowledge of Javascript and React. I like to work with new technologies and want to learn something new every time. 
 
-< --💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions. -->
+< !--💻 I have also **developed many algorithms**, mainly in the field of vision, and have multiple papers in my name. I love exploring new tech stacks and leveraging them to build awesome yet simple solutions. -->
 
 ## 😎 **More About Me**
 
