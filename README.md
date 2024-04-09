@@ -33,16 +33,7 @@
     <a href="https://www.linkedin.com/in/maks-yuvkovetskyi/">
         <img alt="My LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
     </a>
-<a href="https://www.facebook.com/yuvkovetskyy.maxim/">
-  <img alt="My Facebook" width="30px"  src="https://img.icons8.com/color/48/facebook.png""/>
-</a>
-     <a href="https://www.facebook.com/yuvkovetskyy.maxim/">
-        <img alt="My Facebook" width="30px"  src="https://img.icons8.com/color/48/facebook.png""/>
-    </a>
-   
-    <a href="https://t.me/arranger222/">
-        <img alt="My Telegram" width="30px" src="https://img.icons8.com/color/48/telegram-app--v1.png" />
-    </a>
+
  
 </div>
 
