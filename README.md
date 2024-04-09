@@ -39,6 +39,7 @@
     <a href="https://t.me/arranger222/">
         <img alt="My LinkedIn" width="25px" src="<img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" />
     </a>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/>
 </div>
 
 ## 📣 **How about a programming quote before you go?**
